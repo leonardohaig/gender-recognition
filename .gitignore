@@ -1,0 +1,9 @@
+# FILE
+*.pyc
+
+ 
+# DIR
+model
+
+.idea/
+
